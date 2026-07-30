@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="ogata-hyakunosuke-golden-kamuy (1).gif" width="100%">
+  <img src="retouch_2026073018224943.jpg" width="100%">
 </p>
