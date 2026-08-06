@@ -4,5 +4,5 @@
   </a>
 </p>
 <p>
-  <img src="1000312472-removebg-p1review.png" alt="Alt Text" width="00" align="center">
+  <img src="1000312472-removebg-p1review.png" width="100" align="center">
 </p>
