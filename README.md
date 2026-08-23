@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="IMG_20260806_100906.png" width="100%">
+  <img src="3e301e47ed37a30a11a264e0f33e3b19.gif" width="100%">
 </p>
